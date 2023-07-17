@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomationTest", "AutomationTest\AutomationTest.csproj", "{18F5BBDC-6255-4419-AEAB-22898D877526}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomationTest.API", "AutomationTest.API\AutomationTest.API.csproj", "{D2C84930-398C-4108-8C67-AD277F8269C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18F5BBDC-6255-4419-AEAB-22898D877526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F5BBDC-6255-4419-AEAB-22898D877526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F5BBDC-6255-4419-AEAB-22898D877526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F5BBDC-6255-4419-AEAB-22898D877526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2C84930-398C-4108-8C67-AD277F8269C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C84930-398C-4108-8C67-AD277F8269C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C84930-398C-4108-8C67-AD277F8269C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C84930-398C-4108-8C67-AD277F8269C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8C8A867-EA9F-4A2A-BD8D-3814B9923BF5}
+	EndGlobalSection
+EndGlobal
